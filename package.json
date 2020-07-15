@@ -1,5 +1,5 @@
 {
-  "name": "@bilibili-live/agile-anime",
+  "name": "@agile-ui/agile-anime",
   "version": "0.2.4",
   "description": "轻量级js通用动画库",
   "main": "dist/bundle.umd.js",
@@ -11,7 +11,7 @@
   },
   "author": {
     "name": "Harry",
-    "email": "yinhaoran@bilibili.com"
+    "email": "HarryYin91610@outlook.com"
   },
   "license": "ISC",
   "devDependencies": {
