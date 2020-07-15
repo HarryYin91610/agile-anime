@@ -9,10 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rollup -c"
   },
-  "author": {
-    "name": "Harry",
-    "email": "HarryYin91610@outlook.com"
-  },
+  "author": "Harry <HarryYin91610@outlook.com>",
   "license": "ISC",
   "devDependencies": {
     "@rollup/plugin-typescript": "^3.0.0",
@@ -26,5 +23,13 @@
   },
   "dependencies": {
     "bezier-easing": "^2.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarryYin91610/agile-anime.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HarryYin91610/agile-anime/issues"
+  },
+  "homepage": "https://github.com/HarryYin91610/agile-anime#readme"
 }
