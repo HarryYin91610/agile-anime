@@ -1,6 +1,6 @@
 {
-  "name": "@agile-ui/agile-anime",
-  "version": "0.2.4",
+  "name": "agile-anime",
+  "version": "0.2.5",
   "description": "轻量级js通用动画库",
   "main": "dist/bundle.umd.js",
   "module": "dist/bundle.umd.js",

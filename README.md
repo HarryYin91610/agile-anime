@@ -4,13 +4,13 @@
 
 ## 安装方法
 ```
-npm install -S @bilibili-live/agile-anime
+npm install -S agile-anime
 ```
 
 ## 基本用法
 ### 1. 引入AgileAnime
 ```
-import AgileAnime from '@bilibili-live/agile-anime'
+import AgileAnime from 'agile-anime'
 ```
 ### 2. 初始化
 ```
@@ -63,7 +63,7 @@ anime1
 anime1.play()
 ```
 
-## 高级用法[教程](http://holy-grail.bilibili.co/holy-book/#/anime/agile-anime/anime-intro)
+## 高级用法[教程](https://agileui.harryyin.cn/#/anime)
 包括参数配置、支持多种动画属性、如何控制动画流程、动画执行回调、添加缓动特效等。
 
 ## 兼容性
